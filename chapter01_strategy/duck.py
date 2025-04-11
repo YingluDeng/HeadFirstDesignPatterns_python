@@ -129,3 +129,4 @@ def mini_duck_simulator():
 
 if __name__ == "__main__":
     mini_duck_simulator()
+
